@@ -50,12 +50,12 @@ There’s a ton of information about NumPy out there. If you are just starting, 
 - [NumPy User Guide](https://numpy.org/devdocs/)
 
 **Books**
-[Guide to NumPy](http://web.mit.edu/dvp/Public/numpybook.pdf) by Travis E. Oliphant This is a free version 1 from 2006. For the latest copy (2015) see here.
-[From Python to NumPy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/) by Nicolas P. Rougier
-[Elegant SciPy](https://www.amazon.com/Elegant-SciPy-Art-Scientific-Python/dp/1491922877) by Juan Nunez-Iglesias, Stefan van der Walt, and Harriet Dashnow
+- [Guide to NumPy](http://web.mit.edu/dvp/Public/numpybook.pdf) by Travis E. Oliphant This is a free version 1 from 2006. For the latest copy (2015) see [here](https://www.youtube.com/watch?v=ZB7BZMhfPgk).
+- [From Python to NumPy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/) by Nicolas P. Rougier
+- [Elegant SciPy](https://www.amazon.com/Elegant-SciPy-Art-Scientific-Python/dp/1491922877) by Juan Nunez-Iglesias, Stefan van der Walt, and Harriet Dashnow
 
 **Videos**
-[Introduction to Numerical Computing with NumPy](https://www.youtube.com/watch?v=ZB7BZMhfPgk) by Alex Chabot-Leclerc
+- [Introduction to Numerical Computing with NumPy](https://www.youtube.com/watch?v=ZB7BZMhfPgk) by Alex Chabot-Leclerc
 
 [Go to Top](#table-of-contents)
 
