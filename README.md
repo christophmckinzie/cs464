@@ -3,13 +3,7 @@
 
 ### For the official NumPy documentation visit numpy.org/doc/stable.
 
-**pandas** is a Python package that provides fast, flexible, and expressive data
-structures designed to make working with "relational" or "labeled" data both
-easy and intuitive. It aims to be the fundamental high-level building block for
-doing practical, **real world** data analysis in Python. Additionally, it has
-the broader goal of becoming **the most powerful and flexible open source data
-analysis / manipulation tool available in any language**. It is already well on
-its way towards this goal.
+**NumPy** is an open source project that enables numerical computing with Python. It was created in 2005 building on the early work of the Numeric and Numarray libraries. NumPy will always be 100% open source software and free for all to use. It is released under the liberal terms of the [modified BSD license](https://github.com/numpy/numpy/blob/main/LICENSE.txt).
 
 ## Table of Contents
 
@@ -47,17 +41,21 @@ There’s a ton of information about NumPy out there. If you are just starting, 
 
 **Tutorials**
 - [NumPy Quickstart Tutorial](https://numpy.org/devdocs/user/quickstart.html)
-- [NumPy Tutorials](https://numpy.org/numpy-tutorials/) A collection of tutorials and educational materials in the format of Jupyter Notebooks developed and maintained by the NumPy Documentation team. To submit your own content, visit the numpy-tutorials repository on GitHub.
-- [NumPy Illustrated: The Visual Guide to NumPy] by Lev Maximov
-- [SciPy Lectures] Besides covering NumPy, these lectures offer a broader introduction to the scientific Python ecosystem.
-- [NumPy: the absolute basics for beginners]
-- [NumPy tutorial] by Nicolas Rougier
-- [Stanford CS231] by Justin Johnson
-- [NumPy User Guide]
+- [NumPy Tutorials](https://numpy.org/numpy-tutorials/) A collection of tutorials and educational materials in the format of Jupyter Notebooks developed and maintained by the NumPy Documentation team.
+- [NumPy Illustrated: The Visual Guide to NumPy](https://betterprogramming.pub/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d?sk=57b908a77aa44075a49293fa1631dd9b) by Lev Maximov
+- [SciPy Lectures](https://lectures.scientific-python.org/) Besides covering NumPy, these lectures offer a broader introduction to the scientific Python ecosystem.
+- [NumPy: the absolute basics for beginners](https://numpy.org/devdocs/user/absolute_beginners.html)
+- [NumPy tutorial](https://github.com/rougier/numpy-tutorial) by Nicolas Rougier
+- [Stanford CS231](https://cs231n.github.io/python-numpy-tutorial/) by Justin Johnson
+- [NumPy User Guide](https://numpy.org/devdocs/)
 
+**Books**
+[Guide to NumPy](http://web.mit.edu/dvp/Public/numpybook.pdf) by Travis E. Oliphant This is a free version 1 from 2006. For the latest copy (2015) see here.
+[From Python to NumPy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/) by Nicolas P. Rougier
+[Elegant SciPy](https://www.amazon.com/Elegant-SciPy-Art-Scientific-Python/dp/1491922877) by Juan Nunez-Iglesias, Stefan van der Walt, and Harriet Dashnow
 
-
-
+**Videos**
+[Introduction to Numerical Computing with NumPy](https://www.youtube.com/watch?v=ZB7BZMhfPgk) by Alex Chabot-Leclerc
 
 [Go to Top](#table-of-contents)
 
