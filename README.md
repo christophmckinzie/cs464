@@ -57,5 +57,22 @@ There’s a ton of information about NumPy out there. If you are just starting, 
 **Videos**
 - [Introduction to Numerical Computing with NumPy](https://www.youtube.com/watch?v=ZB7BZMhfPgk) by Alex Chabot-Leclerc
 
-[Go to Top](#table-of-contents)
 
+## Advanced
+Try these advanced resources for a better understanding of NumPy concepts like advanced indexing, splitting, stacking, linear algebra, and more.
+
+**Tutorials**
+- [100 NumPy Exercises](https://github.com/rougier/numpy-100) by Nicolas P. Rougier
+- [An Introduction to NumPy and Scipy](https://sites.engineering.ucsb.edu/~shell/che210d/numpy.pdf) by M. Scott Shell
+- [Numpy Medkits](https://mentat.za.net/numpy/numpy_advanced_slides/) by Stéfan van der Walt
+- [NumPy Tutorials](https://numpy.org/numpy-tutorials/) A collection of tutorials and educational materials in the format of Jupyter Notebooks developed and maintained by the NumPy Documentation team.
+- 
+**Books**
+- [Python Data Science Handbook](https://www.amazon.com/Python-Data-Science-Handbook-Essential/dp/1491912057) by Jake Vanderplas
+- [Python for Data Analysis by Wes McKinney](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662) by Wes McKinney
+- [Numerical Python: Scientific Computing and Data Science Applications with Numpy, SciPy, and Matplotlib](https://www.amazon.com/Numerical-Python-Scientific-Applications-Matplotlib/dp/1484242459)
+
+**Videos**
+- [Advanced NumPy - broadcasting rules, strides, and advanced indexing]([https://www.youtube.com/watch?v=ZB7BZMhfPgk](https://www.youtube.com/watch?v=cYugp9IN1-Q)) by Juan Nunez-Iglesias
+
+[Go to Top](#learn-numpy)
