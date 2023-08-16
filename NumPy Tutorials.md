@@ -1,7 +1,7 @@
 # Learn NumPy
 
 
-### For the official NumPy documentation visit numpy.org/doc/stable.
+### For the official NumPy documentation visit [numpy.org/doc/stable](https://numpy.org/doc/stable/).
 
 **NumPy** is an open source project that enables numerical computing with Python. It was created in 2005 building on the early work of the Numeric and Numarray libraries. NumPy will always be 100% open source software and free for all to use. It is released under the liberal terms of the [modified BSD license](https://github.com/numpy/numpy/blob/main/LICENSE.txt).
 
@@ -12,7 +12,7 @@
 - [Advanced](#advanced)
 
 ## Install
-The only prerequisite for installing NumPy is Python itself. If you don’t have Python yet and want the simplest way to get started, we recommend you use the [Anaconda Distribution](https://www.anaconda.com/data-science-platform)_ - it includes Python, NumPy, and many other commonly used packages for scientific computing and data science.
+The only prerequisite for installing NumPy is Python itself. If you don’t have Python yet and want the simplest way to get started, we recommend you use the [Anaconda Distribution](https://www.anaconda.com/data-science-platform) - it includes Python, NumPy, and many other commonly used packages for scientific computing and data science.
 
 NumPy can be installed with conda, with pip, with a package manager on macOS and Linux, or from [source](https://numpy.org/devdocs/user/building.html). For more detailed instructions, consult our [Python and NumPy installation guide below](https://numpy.org/install/#python-numpy-install-guide).
 
@@ -73,6 +73,6 @@ Try these advanced resources for a better understanding of NumPy concepts like a
 - [Numerical Python: Scientific Computing and Data Science Applications with Numpy, SciPy, and Matplotlib](https://www.amazon.com/Numerical-Python-Scientific-Applications-Matplotlib/dp/1484242459)
 
 **Videos**
-- [Advanced NumPy - broadcasting rules, strides, and advanced indexing]([https://www.youtube.com/watch?v=ZB7BZMhfPgk](https://www.youtube.com/watch?v=cYugp9IN1-Q)) by Juan Nunez-Iglesias
+- [Advanced NumPy - broadcasting rules, strides, and advanced indexing](https://www.youtube.com/watch?v=cYugp9IN1-Q) by Juan Nunez-Iglesias
 
 [Go to Top](#learn-numpy)
